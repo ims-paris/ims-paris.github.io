@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+.smallsubtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-align: right;
+}
+.Normal font {
+	font-size: 9px;
+}
+.Text {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Blue_headings_16_pt {
+	font-family: Arial, Helvetica, sans-serif;
+	color:#303881;
+	text-align: left;
+}
+.Title {
+	font-family:Arial, Helvetica, sans-serif
+	color: 303881
+	font-size: 28px;
+	color: #303881;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-style: normal;
+	font-weight: 300;
+	text-align: left;
+	vertical-align: top;
+	word-spacing: normal;
+	top: 5px;	
+}
+.Page_Title
+	font-family:Arial, Helvetica, sans-serif
+	color: 
+	font-size-24px
+	
+.HomePageSubtitle .HomePageSubtitle {
+	font-size: 16px;
+}
+NavBar {
+	text-align: center;
+}
+Navcenter {
+	text-align: center;
+}
+.Text tr td table {
+	text-align: center;
+}
+.Text tr td div p strong {
+	color: #303881;
+}
+.Text tr td .Text font .Blue_headings_16_pt {
+	text-align: center;
+}
+.Text smaller {
+	font-size: 12px;
+}
+.Textsmaller {
+	font-size: 12px;
+}
